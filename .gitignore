@@ -6,7 +6,6 @@ sample_images/
 
 # Ignore dataset and large files
 *.npz
-*.csv
 
 # Ignore system files
 __pycache__/
