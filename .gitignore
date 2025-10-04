@@ -1,0 +1,14 @@
+# Ignore virtual environment
+.venv/
+
+# Ignore image folders
+images/
+sample_images/
+
+# Ignore dataset and large files
+*.npz
+*.csv
+
+# Ignore system files
+__pycache__/
+*.pyc
