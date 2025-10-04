@@ -8,4 +8,3 @@ Sample Dataset Images: https://qnm8.sharepoint.com/:f:/g/Ep5GUq573mVHnE3PJavB738
 
 Output Screenshots
 <img width="1253" height="515" alt="image" src="https://github.com/user-attachments/assets/b12fe6c9-752c-493d-b9c8-1dbd15a529a1" />
-<img width="1253" height="515" alt="image" src="https://github.com/user-attachments/assets/0fe77cf4-e781-454a-ad66-b51d6576975a" />
